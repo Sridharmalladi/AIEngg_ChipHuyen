@@ -3,6 +3,8 @@
 This repository contains my personal summaries, insights, and practical examples based on the book by Chip Huyen.  
 It is not a copy of the original work, but rather my own understanding and application of the concepts.
 
+<img width="384" alt="Screenshot 2025-06-21 at 4 38 24 PM" src="https://github.com/user-attachments/assets/bce10796-a552-4d9d-8fa5-44358e857920" />
+
 ## Table of Contents
 
 - **Chapter 1:** Introduction to AI Applications with Foundation Models
